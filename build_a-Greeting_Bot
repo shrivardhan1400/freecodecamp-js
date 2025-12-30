@@ -1,0 +1,19 @@
+Step 1
+In this workshop you will learn how to work with JavaScript fundamentals by building a greeting bot.
+In this first step, you will want to output a message to the console from the greeting bot.
+Remember that you learned about console.log() and strings in previous lessons.
+Here is a reminder of how to use console.log() with strings:
+Example Code
+console.log("Hello, World!");
+Add a console.log() statement that outputs the string "Hi there!" to the console. Don't forget your quotes around the message!
+
+//console.log("Hi there!");
+
+Step 2:
+Now you should see the first message from the bot in the console.
+It is time to add a second message from the bot.
+Add another console.log statement to output the message "I am excited to talk to you." to the console.
+
+//console.log("I am excited to talk to you.")
+
+Step 3:
