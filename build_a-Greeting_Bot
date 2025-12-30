@@ -1,4 +1,4 @@
-Step 1
+Step 1:
 In this workshop you will learn how to work with JavaScript fundamentals by building a greeting bot.
 In this first step, you will want to output a message to the console from the greeting bot.
 Remember that you learned about console.log() and strings in previous lessons.
