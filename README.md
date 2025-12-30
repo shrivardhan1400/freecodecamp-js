@@ -1,6 +1,6 @@
 # freecodecamp-js
 
-[variablesaAndStrings]
+[variablesaAndStrings](variablesaAndStrings)
 [booleansAndNumbers]
 [functions]
 [arrays]
