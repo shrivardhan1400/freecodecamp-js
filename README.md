@@ -1,7 +1,9 @@
 # freecodecamp-js
 
 [build_a-Greeting_Bot](build_a-Greeting_Bot)
+
 [variablesaAndStrings](variablesaAndStrings)
+
 [booleansAndNumbers]
 [functions]
 
