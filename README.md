@@ -1,6 +1,12 @@
 # freecodecamp-js
 
-1.[variablesaAndStrings](variablesaAndStrings)
+1.variablesaAndStrings
+ |-> 1.1 [build_a-Greeting_Bot](build_a-Greeting_Bot)
+ |-> 1.2 [build_a_JavaScript_Trivia_Bot](build_a_JavaScript_Trivia_Bot)
+ |
+ |
+ |
+ 
 
 [booleansAndNumbers]
 [functions]
