@@ -1,19 +1,35 @@
-Step 1
-In this workshop you will learn how to work with JavaScript fundamentals by building a greeting bot.
-In this first step, you will want to output a message to the console from the greeting bot.
-Remember that you learned about console.log() and strings in previous lessons.
-Here is a reminder of how to use console.log() with strings:
-Example Code
-console.log("Hello, World!");
-Add a console.log() statement that outputs the string "Hi there!" to the console. Don't forget your quotes around the message!
-
-//console.log("Hi there!");
-
-Step 2:
-Now you should see the first message from the bot in the console.
-It is time to add a second message from the bot.
-Add another console.log statement to output the message "I am excited to talk to you." to the console.
-
-//console.log("I am excited to talk to you.")
-
-Step 3:
+//step1
+console.log("Hi there!");
+//step2
+console.log("I am excited to talk to you.");
+//step3
+let bot;
+//step4
+bot = "teacherBot";
+//step5
+let botLocation = "the universe";
+//step6
+console.log("Allow me to introduce myself.");
+//step7
+const botIntroduction = "My name is " + bot + ".";
+console.log(botIntroduction);
+//step8
+const botLocationSentence = "I live in " + botLocation + ".";
+console.log(botLocationSentence);
+//step9
+bot = "professorBot";
+//step10
+const nicknameIntroduction = "My nickname is " + bot + ".";
+console.log(nicknameIntroduction);
+//step11
+bot = "awesomeTeacherBot";
+//step12
+const newNicknameGreeting = "I love my nickname but I wish people would call me " + bot + ".";
+console.log(newNicknameGreeting);
+//step13
+const favoriteSubject = "Computer Science";
+//step14
+const favoriteSubjectSentence = "My favorite subject is " + favoriteSubject + ".";
+console.log(favoriteSubjectSentence);
+//step15
+console.log("Well, it was nice to talk to you. Have a nice day!");
