@@ -1,8 +1,6 @@
 # freecodecamp-js
 
-[build_a-Greeting_Bot](build_a-Greeting_Bot)
-
-[variablesaAndStrings](variablesaAndStrings)
+1.[variablesaAndStrings](variablesaAndStrings)
 
 [booleansAndNumbers]
 [functions]
